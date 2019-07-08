@@ -1,0 +1,5 @@
+.article {
+   flex: 1;
+   background-color: aqua;
+   order: 2;
+}

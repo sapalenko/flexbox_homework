@@ -1,0 +1,21 @@
+.colums {
+    display: flex;
+    flex: 1;
+}
+
+.column {
+    width: 33.33%;
+    height: 300px;
+}
+
+.column-first {
+    background-color: blueviolet;
+}
+
+.column-second {
+    background-color: blue;
+}
+
+.column-third {
+    background-color: cadetblue;
+}
