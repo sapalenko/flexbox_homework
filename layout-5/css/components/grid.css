@@ -1,0 +1,10 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 80%;
+}

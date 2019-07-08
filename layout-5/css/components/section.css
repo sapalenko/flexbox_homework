@@ -1,8 +1,18 @@
-.section {
-
+.sections {
+    display: flex;
+    flex-basis: 100%;
 }
 
-.section-title {
-
+.section-1 {
+    height: 200px;
+    background-color: blueviolet;
+    flex-basis: 50%;
+    outline: 2px groove;
 }
 
+.section-2 {
+    height: 200px;
+    background-color: firebrick;
+    flex-basis: 50%;
+    outline: 2px groove;
+}

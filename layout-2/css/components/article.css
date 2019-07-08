@@ -2,4 +2,6 @@
    flex: 1;
    background-color: aqua;
    order: 2;
+   outline: 2px groove;
+   margin-left: 10px;
 }

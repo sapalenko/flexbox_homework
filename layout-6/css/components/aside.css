@@ -1,0 +1,6 @@
+.aside {
+    background-color: chartreuse;
+    flex: 1;
+    order: -1;
+    outline: 2px groove;
+}

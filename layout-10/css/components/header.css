@@ -1,0 +1,7 @@
+.header{
+    flex-basis: 100%;
+    background-color: crimson;
+    height: 100px;
+    margin-bottom: 10px;
+    outline: 2px groove;
+}

@@ -1,0 +1,6 @@
+.flex-container {    
+    display: flex;
+    order: 1;
+    flex-direction: column;
+    flex-basis: calc(80% - 10px);
+}

@@ -1,4 +1,6 @@
 .footer {
     background-color: coral;
-    height: 200px;
+    height: 100px;
+    outline: 2px groove;
+    margin-top: 10px;
   }

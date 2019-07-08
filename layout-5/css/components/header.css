@@ -1,4 +1,7 @@
 .header{
+    flex-basis: 100%;
     background-color: crimson;
-    height: 200px;
+    height: 100px;
+    outline: 2px groove;
+    margin-bottom: 10px;
 }

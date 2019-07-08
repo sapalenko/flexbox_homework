@@ -1,4 +1,4 @@
 .article {
-   flex: 1;
    background-color: aqua;
+   outline: 2px groove;
 }

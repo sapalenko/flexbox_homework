@@ -1,0 +1,13 @@
+.cards {
+    display: flex;
+    flex: 1 0 100%;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex-basis: calc(33.33% - 10px);
+    background: blueviolet;
+    outline: 2px groove;
+    height: 200px;
+    margin: 5px;
+}

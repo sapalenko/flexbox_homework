@@ -1,0 +1,8 @@
+.aside {
+    outline: 2px groove;
+    background-color: chartreuse;
+    flex: 1;
+    flex-basis: calc(33.33% - 10px);
+    height: 100px;
+    margin-bottom: 5px;
+}

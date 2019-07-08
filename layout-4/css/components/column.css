@@ -10,12 +10,18 @@
 
 .column-first {
     background-color: blueviolet;
+    outline: 2px groove;
+    margin: 5px;
 }
 
 .column-second {
     background-color: blue;
+    outline: 2px groove;
+    margin: 5px;
 }
 
 .column-third {
     background-color: cadetblue;
+    outline: 2px groove;
+    margin: 5px;
 }

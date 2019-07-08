@@ -1,4 +1,6 @@
 .header{
     background-color: crimson;
-    height: 200px;
+    height: 100px;
+    margin-bottom: 10px;
+    outline: 2px groove;
 }
